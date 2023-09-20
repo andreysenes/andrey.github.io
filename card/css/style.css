@@ -48,3 +48,7 @@ a:hover {
   color: #332200;
   background: #e5ab00;
 }
+
+a:active {
+  background: #DEA600;
+}
